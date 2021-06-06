@@ -1,0 +1,7 @@
+This is Project of Advance Programming Course.
+In this project we created website named as shadi.com. User has to login or register to enter
+into the website.
+The user can find the life partener in this website.
+This website is created on java platform on springboot. Spring boot is 
+java web platform where we used API to put get create and delete the user request.
+User can also delete the account if he wants and add reviews on it.
